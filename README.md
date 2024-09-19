@@ -1,1 +1,18 @@
 # TetrisChulminator_public
+- SoundSource:
+  - [DorianYellow](https://github.com/DorianYellow)
+  - HSK
+  - https://sound-effects.bbcrewind.co.uk/
+  - https://taira-komori.jpn.org/playing01kr.html
+- MusicSource:
+  - [DorianYellow](https://github.com/DorianYellow)
+  - HSK
+- PictureSource:
+  - 눈의꽃
+- FontSource
+    - BalonkuRegular-la1w
+      - license: Shareware, Non-Commercial
+      - link: https://www.fontspace.com/balonku-font-f31178
+    - Sansation
+      - SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+      - link: https://www.fontsquirrel.com/license/sansation
