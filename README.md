@@ -8,8 +8,6 @@
 - MusicSource:
   - [DorianYellow](https://github.com/DorianYellow)
   - HSK
-- PictureSource:
-  - 눈의꽃
 - FontSource
     - BalonkuRegular-la1w
       - license: Shareware, Non-Commercial
