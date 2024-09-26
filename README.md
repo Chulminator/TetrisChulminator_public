@@ -1,4 +1,8 @@
 # TetrisChulminator_public
+## Overview
+
+![Overview](./Media/Overview.png)
+
 ## Key Features
 Scoring System: Records player scores and saves high scores to add a competitive element.
 
