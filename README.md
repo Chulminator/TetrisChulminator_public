@@ -1,4 +1,18 @@
 # TetrisChulminator_public
+## Key Features
+Scoring System: Records player scores and saves high scores to add a competitive element.
+
+Visual Effects: Enhances immersion with appealing graphics and animations.
+
+User Interface: Designed with an intuitive UI for easy game initiation and controls.
+
+##Tech Stack
+
+Programming Language: Modern C++ (MinGW32 Windows)
+
+Library: SFML
+
+## Copyrights
 - SoundSource:
   - [DorianYellow](https://github.com/DorianYellow)
   - YFW개코
