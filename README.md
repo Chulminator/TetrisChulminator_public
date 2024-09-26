@@ -6,7 +6,7 @@ Visual Effects: Enhances immersion with appealing graphics and animations.
 
 User Interface: Designed with an intuitive UI for easy game initiation and controls.
 
-##Tech Stack
+## Tech Stack
 
 Programming Language: Modern C++ (MinGW32 Windows)
 
