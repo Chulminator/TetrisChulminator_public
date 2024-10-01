@@ -25,7 +25,17 @@ Library: SFML
   - https://taira-komori.jpn.org/playing01kr.html
 - MusicSource:
   - [DorianYellow](https://github.com/DorianYellow)
-  - HSK
+  - [DorianYellow](https://github.com/DorianYellow)
+  - Odd News - Twin Musicom
+
+```text
+Odd News by Twin Musicom is licensed under a Creative Commons Attribution 4.0 license. 
+
+https://creativecommons.org/licenses/by/4.0/
+```
+
+Artist: http://www.twinmusicom.org/
+
 - FontSource
     - BalonkuRegular-la1w
       - license: Shareware, Non-Commercial
