@@ -1,4 +1,7 @@
 # TetrisChulminator_public
+- 2024/10/03
+I've updated the game to enable score competition. Remember, the MORE COMBOS you achieve, the HIGHER SCORE!
+
 ## Overview
 
 ![Overview](./Media/Overview.png)
