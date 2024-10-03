@@ -25,7 +25,7 @@ Library: SFML
   - https://taira-komori.jpn.org/playing01kr.html
 - MusicSource:
   - [DorianYellow](https://github.com/DorianYellow)
-  - [DorianYellow](https://github.com/DorianYellow)
+  - HSK
   - Odd News - Twin Musicom
 
 ```text
